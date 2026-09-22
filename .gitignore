@@ -1,0 +1,17 @@
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# OS specific files
+.DS_Store
+.directory
+
+# Power BI temp files
+*.pbit.backup
